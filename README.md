@@ -10,8 +10,11 @@
 <a href="https://www.linkedin.com/in/luis-de-mendoza/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
+</p>
+
+<p align="center">
 <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV3cnQwY2J3c2F5MjYxOHNlb2pocm14eWI0eTlzcWw1YTNnb3Z5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uPnKU86sFa2fm/giphy.gif">
-  <img height="50" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV3cnQwY2J3c2F5MjYxOHNlb2pocm14eWI0eTlzcWw1YTNnb3Z5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uPnKU86sFa2fm/giphy.gif"/>
+  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjV3cnQwY2J3c2F5MjYxOHNlb2pocm14eWI0eTlzcWw1YTNnb3Z5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uPnKU86sFa2fm/giphy.gif"/>
 </a>
 </p>
 
